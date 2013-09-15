@@ -1,0 +1,24 @@
+build.board: unknown
+build.bootloader: 1.44.0000
+build.brand: htc
+build.cpu_abi: armeabi-v7a
+build.cpu_abi2: armeabi
+build.device: m7
+build.display: JWR66V.H10
+build.fingerprint: htc/m7_google/m7:4.3/JWR66V.H10/230993:user/release-keys
+build.hardware: m7
+build.host: abm009
+build.id: JWR66V.H10
+build.manufacturer: HTC
+build.model: HTC One with MoDaCo.SWITCH Beta 13
+build.product: m7_google
+build.radio: unknown
+build.serial: HT35GW906172
+build.tags: release-keys
+build.time: 1375354108000
+build.type: user
+build.user: unknown
+version.codename: REL
+version.incremental: 230993
+version.release: 4.3
+version.sdk_int: 18
